@@ -1,0 +1,10 @@
+*~
+\#*
+.\#*
+\#*\#
+build/
+.gradle/
+.classpath
+bin/
+node_modules/
+src/main/resources/client/
